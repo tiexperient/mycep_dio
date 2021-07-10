@@ -11,5 +11,6 @@ Plataforma Online e Responsiva, com captura de informações advindas do IBGE e 
 * JQuery
 * Ajax
 
+**Desenvolvido por:**  Célia Medeiros 💛
 
 
